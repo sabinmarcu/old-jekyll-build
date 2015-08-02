@@ -25,9 +25,9 @@ Un alt eveniment interesant (shh, don't tell anyone) este atunci când ~10 oamen
 
 ----
 
-## Cel mai interesant, impresionant si all in all awesome eveniment a fost totuși `Auto-numirea domnului Sabin Buraga ca șef comisie web`.
+<!-- ## Cel mai interesant, impresionant si all in all awesome eveniment a fost totuși `Auto-numirea domnului Sabin Buraga ca șef comisie web`.
 
-Domnul Buraga s-a ridicat pur și simplu în picioare, și a cerut locul de șep comisie web, și printre aplauze și râsete i-a fost acordat titlul onorific. Sincer, cred că a fost cel mai *tare* eveniment al taberei până acum (și probabil până la sfârșit).
+Domnul Buraga s-a ridicat pur și simplu în picioare, și a cerut locul de șep comisie web, și printre aplauze și râsete i-a fost acordat titlul onorific. Sincer, cred că a fost cel mai *tare* eveniment al taberei până acum (și probabil până la sfârșit). -->
 
 > Tricouri am primit după aceea, în timpul prezentărilor, am primit. <cite>pseudo-yoda</cite>
 
