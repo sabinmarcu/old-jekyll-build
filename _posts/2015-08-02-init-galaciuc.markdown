@@ -15,6 +15,8 @@ Stimatul noastră și mândria, [Alexandru Palcuie](#palcu) realiza modificări 
 
 > Taci că număr pixelii! <cite>[Palcu](#palcu)</cite>
 
+Ce-i drept, Palcu dragă, pe Macbook Air poți să numeri pixelii. [Julian](#julian), să nu zici vreodată că țin partea Apple-urilor!
+
 Un alt eveniment interesant (shh, don't tell anyone) este atunci când ~10 oameni (ce se certau până în acest moment) se opresc din discuții numai să se uite la un bec cu probleme. Pentru o bună parte dintr-un minut. Operațiile de reparare au continuat mai târziu, parte din proces implicând calcule matematice și analiză, management al resurselor (caburi) și multă distracție.
 
 > Aici se repară un bec <cite>[Julian](#julian)</cite>
