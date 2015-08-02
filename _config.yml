@@ -1,0 +1,52 @@
+name: Sabin Marcu
+description: Random ramblings
+meta_description: "Random ramblings of me, myself and I"
+
+aboutPage: true
+
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 20
+baseurl: /
+domain_name: 'http://sabinmarcu.github.io/'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+disqus_shortname: 'your-disqus-shortname'
+
+# Details for the RSS feed generator
+url:            'http://your-blog-url.example.com'
+author:         'Sabin Marcu'
+authorTwitter:  'sabinmarcu'
+
+encoding: utf-8
+
+permalink:       /:categories/:title/
+redcarpet:
+    extensions: [with_toc_data]
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: "" # empty string for all files
+            type: tutorials
+        values:
+            layout: default
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
