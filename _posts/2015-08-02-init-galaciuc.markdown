@@ -3,6 +3,7 @@ title: "Init Gălăciuc"
 date: "2015-08-02"
 description: "Prima zi de Gălăciuc"
 categories: infoeducatie
+previewImg: https://lh3.googleusercontent.com/IhUCH7CyhGyAHdHdkEpEoGlQqBDEbnNah7gFWw4xTg0=w2048-h1536-no
 ---
 
 # Prima zi de Gălăciuc
