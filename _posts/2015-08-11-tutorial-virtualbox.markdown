@@ -1,6 +1,6 @@
 ---
 title: "Tutorial VirtualBox"
-date: "2015-08-11"
+date: "2015-08-01"
 categories: tutorial
 previewImg: http://www.deadcodersociety.org/blog/wp-content/uploads/2012/04/Virtualbox_logo.png
 description: Virtual Box este o aplicație care își propune să vină în ajutorul nostru atunci când avem nevoie rapid și ușor de o mașină care să îndeplinească anumite specificații, atât hardware, cât și software.
