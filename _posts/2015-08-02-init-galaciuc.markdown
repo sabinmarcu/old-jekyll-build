@@ -10,7 +10,7 @@ previewImg: https://lh3.googleusercontent.com/IhUCH7CyhGyAHdHdkEpEoGlQqBDEbnNah7
 
 A fost o zi foarte distractivă.
 
-De la 2-3 ore de haz cu Microsoft și [Julian](#julian) (a se citi: tot felul de glume la adresa **Microsoft**, **Windows 10**, și **Julian** însuși, inclusiv dorința sa arzătoare de a își găsi o prietenă nouă – sperăm, dragă Julian că ai în vedere doar peroane *de o vârstă potrivită*), la cablaje și **urcat pe copaci** (la propriu) pentru a aduce bine-meritatul și doritul internet la *Foișor* (cablu + router), la drumul îngrozitor de lung, a fost o zi foarte distractivă.
+De la 2-3 ore de haz cu Microsoft și [Julian](#julian) (a se citi: tot felul de glume la adresa **Microsoft**, **Windows 10**, și **Julian** însuși, <strike>inclusiv dorința sa arzătoare de a își găsi o prietenă nouă – sperăm, dragă Julian că ai în vedere doar peroane *de o vârstă potrivită*</strike>), la cablaje și **urcat pe copaci** (la propriu) pentru a aduce bine-meritatul și doritul internet la *Foișor* (cablu + router), la drumul îngrozitor de lung, a fost o zi foarte distractivă.
 
 Stimatul noastră și mândria, [Alexandru Palcuie](#palcu) realiza modificări de stil pe ultima sută de metrii la site-ul [InfoEducație](https://infoeducatie.ro/), numărând marginea unui element într-un mod inedit: măsurarea pixelior pe ecran fără nici un instrument în afara cursorului și **ochiometrului** (altfel numit și aparat ocular).
 
