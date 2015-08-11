@@ -1,6 +1,6 @@
 ---
 title: "Tutorial Vagrant"
-date: "2015-08-02"
+date: "2015-08-11"
 categories: tutorial
 previewImg: http://tzookb.com/wp-content/uploads/2015/01/vagrant.png
 description: "În ultimii ani, virtualizarea și standardizarea mașinilor virtuale a devenit un subiect din ce în ce mai dezbătut, și populat de diferite sisteme ce își doresc a face acest subiect o realitate cât mai accesibilă. Unul dintre aceste sisteme, realizat modular, este Vagarnt"
