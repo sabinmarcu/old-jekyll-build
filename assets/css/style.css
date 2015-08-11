@@ -202,6 +202,7 @@ nav.main-nav a.cta {
     -ms-flex-item-align: auto;
     align-self: auto;
 	border: none !important;
+	background: transparent !important;
 }
 
 .home > .content > ul > li > span {
@@ -213,6 +214,7 @@ nav.main-nav a.cta {
 	display: block;
 	transition: all 0.5s cubic-bezier(0.165, 0.840, 0.440, 1.000);
 	overflow: hidden;
+	background: white;
 }
 
 .home > .content > ul > li h2 {
@@ -225,6 +227,7 @@ nav.main-nav a.cta {
 
 .home > .content > ul > li:hover span {
 	box-shadow: 0 2px 5px 0 rgba(0,0,0,.16);
+	border: solid 1px #eee;
 }
 
 .home > .content > ul > li:hover h2 {
@@ -256,6 +259,7 @@ nav.main-nav a.cta {
 	margin: 20px;
 	background: rgba(256, 256, 256, 0.9);
 	box-shadow: 0;
+	border: none;
 }
 .home > .content > ul > li.haspreview:hover span {
 	background: white;
@@ -272,6 +276,8 @@ nav.main-nav a.cta {
 	display: block;
 	transition: all 0.5s cubic-bezier(0.165, 0.840, 0.440, 1.000);
 	opacity: 0.7;
+	background: white;
+	border: solid 1px #eee;
 }
 .home > .content > ul > li.haspreview:hover img {
 	opacity: 1;
