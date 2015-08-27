@@ -21,7 +21,7 @@ authorTwitter:  'sabinmarcu'
 
 encoding: utf-8
 
-permalink:       /:categories/:title/
+permalink:       /article/:categories/:title/
 redcarpet:
     extensions: [with_toc_data]
 
